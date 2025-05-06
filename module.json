@@ -1,0 +1,34 @@
+{
+   "id": "mapdoctor-free-18-pack",
+   "title": "Free 18 Pack by Map Doctor",
+   "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "This is Free 18 Pack by Map Doctor. You will find base maps of 18 map packs (a total of 26 maps), ready to play and free for everyone. Walls, doors, windows, and dynamic lighting are already configured, allowing you to import this module into your world and play immediately. Happy gaming!",
+ "authors": [
+    {
+      "name": "Map Doctor",
+      "email": "mapdoctor7@gmail.com",
+      "url": "https://www.patreon.com/mapdoctor",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/mapdoctor",
+  "packs": [
+    {
+        "name": "maps",
+         "label": "Free 18 Pack by Map Doctor",
+         "path":"/packs/maps",
+         "type":"Scene",
+		 "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
